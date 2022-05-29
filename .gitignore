@@ -1,6 +1,7 @@
 # Folders
 .vscode/
-venv/ 
+venv/
+reports/
 
 # Files
 *.log
