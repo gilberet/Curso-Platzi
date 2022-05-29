@@ -4,3 +4,5 @@ venv/
 
 # Files
 *.log
+*.zip
+*.exe
